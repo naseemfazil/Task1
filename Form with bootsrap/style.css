@@ -1,0 +1,10 @@
+.form-group{
+    margin-left: 496px;
+}
+.form-control{
+/* width: 100%; */
+max-width:330px;
+}
+.btn{
+    margin-left: 100px
+}
